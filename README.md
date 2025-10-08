@@ -33,6 +33,10 @@
 ![Forecasting](https://img.shields.io/badge/Forecasting-1E90FF?style=flat&logo=chartdotjs&logoColor=white)
 ![Monte Carlo](https://img.shields.io/badge/Monte%20Carlo-013243?style=flat&logo=numpy&logoColor=white)
 
+## Optimization
+![Gurobi](https://img.shields.io/badge/Gurobi-EE3524?style=flat&logo=gurobi&logoColor=white)
+![PuLP](https://img.shields.io/badge/PuLP-3776AB?style=flat&logo=python&logoColor=white)
+
 ### 📊 Data & Visualization
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
