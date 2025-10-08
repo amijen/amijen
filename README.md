@@ -28,16 +28,16 @@
 ![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=flat&logo=meta&logoColor=white)
 ![GPT](https://img.shields.io/badge/GPT-412991?style=flat&logo=openai&logoColor=white)
 
-### Forecasting & Clustering
+### 📈Forecasting & Clustering
 ![K-Means](https://img.shields.io/badge/K--Means-FF9900?style=flat&logo=scikitlearn&logoColor=white)
 ![Forecasting](https://img.shields.io/badge/Forecasting-1E90FF?style=flat&logo=chartdotjs&logoColor=white)
 ![Monte Carlo](https://img.shields.io/badge/Monte%20Carlo-013243?style=flat&logo=numpy&logoColor=white)
 
-### Optimization
+### 🎯Optimization
 ![Gurobi](https://img.shields.io/badge/Gurobi-EE3524?style=flat&logo=gurobi&logoColor=white)
 ![PuLP](https://img.shields.io/badge/PuLP-3776AB?style=flat&logo=python&logoColor=white)
 
-### Stochastic
+### 🎲Stochastic
 ![Nelson–Siegel](https://img.shields.io/badge/Nelson--Siegel-0A74DA?style=flat&logo=scipy&logoColor=white)
 ![Vasicek](https://img.shields.io/badge/Vasicek-2E8B57?style=flat&logo=python&logoColor=white)
 ![CIR](https://img.shields.io/badge/CIR%20Model-0066CC?style=flat&logo=scipy&logoColor=white)
