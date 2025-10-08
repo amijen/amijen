@@ -4,5 +4,6 @@
 
 🎓 Graduated with Excellent Honor from Ecole Polytechnique de Tunisie
 
-💡 Passionate about Generative AI and Applied Mathematics
+## My Interest
 
+I am passionate about applied mathematics and data science applied to GenAI. I am looking forward to improve my expertise in both domains. 
