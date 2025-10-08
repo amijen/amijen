@@ -1,4 +1,4 @@
-## Hi 👋 I am Amine Sellami
+## Welcome to Amine Sellami's GitHub! 🚀
 
 📘 Master TIDE (Traitement de l'information et data-science en entreprise) student at Panthéon-Sorbonne 
 
@@ -6,4 +6,3 @@
 
 💡 Passionate about Generative AI and Applied Mathematics
 
-🚀 Data Science Enthusiast 
