@@ -11,7 +11,7 @@
 ## 🛠 Skills & Tools
 
 ### 👩‍💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SAS](https://img.shields.io/badge/-SAS-0066CC?style=flat&logo=sas&logoColor=white)
