@@ -37,6 +37,13 @@
 ![Gurobi](https://img.shields.io/badge/Gurobi-EE3524?style=flat&logo=gurobi&logoColor=white)
 ![PuLP](https://img.shields.io/badge/PuLP-3776AB?style=flat&logo=python&logoColor=white)
 
+## Stochastic
+![Nelson–Siegel](https://img.shields.io/badge/Nelson--Siegel-0A74DA?style=flat&logo=scipy&logoColor=white)
+![Vasicek](https://img.shields.io/badge/Vasicek-2E8B57?style=flat&logo=python&logoColor=white)
+![CIR](https://img.shields.io/badge/CIR%20Model-0066CC?style=flat&logo=scipy&logoColor=white)
+![Stochastic Programming](https://img.shields.io/badge/Stochastic%20Programming-8B0000?style=flat&logo=gurobi&logoColor=white)
+![Robust Optimization](https://img.shields.io/badge/Robust%20Optimization-800080?style=flat&logo=wolframmathematica&logoColor=white)
+
 ### 📊 Data & Visualization
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
