@@ -14,4 +14,4 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SAS](<img width="1200" height="493" alt="image" src="https://github.com/user-attachments/assets/400c91ad-4557-455a-947e-805c183e191d" />)
+![SAS](https://img.shields.io/badge/-SAS-0066CC?style=flat&logo=sas&logoColor=white)
