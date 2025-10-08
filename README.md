@@ -28,6 +28,11 @@
 ![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=flat&logo=meta&logoColor=white)
 ![GPT](https://img.shields.io/badge/GPT-412991?style=flat&logo=openai&logoColor=white)
 
+## Forecasting & Clustering
+![K-Means](https://img.shields.io/badge/K--Means-FF9900?style=flat&logo=scikitlearn&logoColor=white)
+![Forecasting](https://img.shields.io/badge/Forecasting-1E90FF?style=flat&logo=chartdotjs&logoColor=white)
+![Monte Carlo](https://img.shields.io/badge/Monte%20Carlo-013243?style=flat&logo=numpy&logoColor=white)
+
 ### 📊 Data & Visualization
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
