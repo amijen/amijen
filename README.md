@@ -30,6 +30,7 @@
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF4F4F?style=flat&logo=crewai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-0A66C2?style=flat&logo=semanticweb&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-8A2BE2?style=flat&logo=bot&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-0A9396?style=flat&logo=pinecone&logoColor=white)
 
 ### 📈Forecasting & Clustering
 ![K-Means](https://img.shields.io/badge/K--Means-FF9900?style=flat&logo=scikitlearn&logoColor=white)
