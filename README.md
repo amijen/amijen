@@ -27,6 +27,7 @@
 ![Transformers](https://img.shields.io/badge/-Transformers-FF9E0F?style=flat&logo=huggingface&logoColor=white)
 ![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=flat&logo=meta&logoColor=white)
 ![GPT](https://img.shields.io/badge/GPT-412991?style=flat&logo=openai&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4F4F?style=flat&logo=crewai&logoColor=white)
 
 ### 📈Forecasting & Clustering
 ![K-Means](https://img.shields.io/badge/K--Means-FF9900?style=flat&logo=scikitlearn&logoColor=white)
