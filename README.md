@@ -28,6 +28,8 @@
 ![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=flat&logo=meta&logoColor=white)
 ![GPT](https://img.shields.io/badge/GPT-412991?style=flat&logo=openai&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF4F4F?style=flat&logo=crewai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0A66C2?style=flat&logo=semanticweb&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-8A2BE2?style=flat&logo=bot&logoColor=white)
 
 ### 📈Forecasting & Clustering
 ![K-Means](https://img.shields.io/badge/K--Means-FF9900?style=flat&logo=scikitlearn&logoColor=white)
