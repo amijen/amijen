@@ -4,6 +4,8 @@
 
 🎓 Graduated with Excellent Honor from Ecole Polytechnique de Tunisie
 
+🤖 AI Engineer Intern @Renault
+
 ## My Interest
 
 💡 I am passionate about artificial intelligence with a particular focus on LLMs. I am looking forward to improve my expertise in LLMs, CV, and RL.
