@@ -6,7 +6,7 @@
 
 ## My Interest
 
-💡 I am passionate about applied mathematics and data science applied to GenAI. I am looking forward to improve my expertise in both domains. 
+💡 I am passionate about artificial intelligence with a particular focus on LLMs. I am looking forward to improve my expertise in LLMs, CV, and RL.
 
 ## 🛠 Skills & Tools
 
