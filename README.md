@@ -18,6 +18,9 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SAS](https://img.shields.io/badge/-SAS-0066CC?style=flat&logo=sas&logoColor=white)
 
+### ⚡ Big Data
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black)
+
 ### 🔬 Machine Learning & Deep Learning
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EA4335?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
