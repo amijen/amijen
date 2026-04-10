@@ -1,6 +1,6 @@
 ## Welcome to Amine Sellami's GitHub! 🚀
 
-🤖 AI Engineer Intern @Renault Group
+🤖 AI Engineer Intern @Groupe Renault
 
 📘 Master 2 TIDE (Traitement de l'information et data-science en entreprise) student at Panthéon-Sorbonne 
 
