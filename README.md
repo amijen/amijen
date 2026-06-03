@@ -2,9 +2,9 @@
 
 🤖 AI Engineer Intern @Renault Groupe
 
-📘 Master 2 TIDE (Traitement de l'information et data-science en entreprise) student at Panthéon-Sorbonne 
-
 🎓 Graduated with Excellent Honor from Ecole Polytechnique de Tunisie
+
+📘 Master 2 TIDE (Traitement de l'information et data-science en entreprise) student at Panthéon-Sorbonne 
 
 ## My Interest
 
@@ -32,10 +32,14 @@
 ![Transformers](https://img.shields.io/badge/-Transformers-FF9E0F?style=flat&logo=huggingface&logoColor=white)
 ![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=flat&logo=meta&logoColor=white)
 ![GPT](https://img.shields.io/badge/GPT-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF4F4F?style=flat&logo=crewai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-0A66C2?style=flat&logo=semanticweb&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-8A2BE2?style=flat&logo=bot&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-0A9396?style=flat&logo=pinecone&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ### 📈Forecasting & Clustering
 ![K-Means](https://img.shields.io/badge/K--Means-FF9900?style=flat&logo=scikitlearn&logoColor=white)
@@ -61,6 +65,11 @@
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
+### 🗄️ Databases & Backend
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
 ### 🛠 Dev Tools
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
