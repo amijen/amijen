@@ -113,7 +113,7 @@ I enjoy transforming AI research into **high-value business solutions** and coll
 
 ## 🌍 Languages
 
-🇸🇦 **Arabic** — Mother tongue &nbsp;|&nbsp; 🇫🇷 **French** — Fluent &nbsp;|&nbsp; 🇬🇧 **English** — Fluent (TOEIC 880/990)
+**Arabic** — Mother tongue |**French** — Fluent | **English** — Fluent (TOEIC 880/990)
 
 ---
 
