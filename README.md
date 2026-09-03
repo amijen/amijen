@@ -6,7 +6,11 @@
 
 📘 **Master 2 TIDE** (Big Data & Data Science in Enterprise) student at **Panthéon-Sorbonne**
 
-📍 Based in Paris — 📫 [aminesellami0110@gmail.com](mailto:aminesellami0110@gmail.com) — 🔗 [LinkedIn](https://www.linkedin.com/in/amine-sellami61/)
+📍 Paris, France
+
+📫 **Email:** aminesellami0110@gmail.com
+
+💼 **LinkedIn:** www.linkedin.com/in/amine-sellami61
 
 ---
 
